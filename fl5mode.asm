@@ -7,6 +7,10 @@
 ; Driver for five mode LED fLashlight with magnetic rotary switch
 ; and Hall-effect sensors inside.
 ;
+; Not fully compatible replacement of T1H2B25CAE
+; More info in the article published in the Ukrainian amateur radio magazine
+; "Radioamator", 2015, N9 p.43-45
+;
 ; MCU: PIC12F629
 ; asm: mpasmx v. 5.60
 ; Internal OSC 4MHz
